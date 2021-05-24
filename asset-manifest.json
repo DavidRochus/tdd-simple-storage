@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/tdd-simple-storage/static/css/main.b100e6da.chunk.css",
+    "main.js": "/tdd-simple-storage/static/js/main.07916b67.chunk.js",
+    "main.js.map": "/tdd-simple-storage/static/js/main.07916b67.chunk.js.map",
+    "runtime-main.js": "/tdd-simple-storage/static/js/runtime-main.4a6f39e4.js",
+    "runtime-main.js.map": "/tdd-simple-storage/static/js/runtime-main.4a6f39e4.js.map",
+    "static/js/2.9becbd21.chunk.js": "/tdd-simple-storage/static/js/2.9becbd21.chunk.js",
+    "static/js/2.9becbd21.chunk.js.map": "/tdd-simple-storage/static/js/2.9becbd21.chunk.js.map",
+    "index.html": "/tdd-simple-storage/index.html",
+    "precache-manifest.d99cd9a4de086f0806dec1707bba4fed.js": "/tdd-simple-storage/precache-manifest.d99cd9a4de086f0806dec1707bba4fed.js",
+    "service-worker.js": "/tdd-simple-storage/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/tdd-simple-storage/static/css/main.b100e6da.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4a6f39e4.js",
+    "static/js/2.9becbd21.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.07916b67.chunk.js"
+  ]
+}
